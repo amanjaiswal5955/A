@@ -13,5 +13,6 @@ Navisworks.
 * Autodesk Navisworks is used to Simulate the model with Scheduled timeline and help in analyzing the delays. Also we 
 can perform cost estimation, Quantity takes off and for measurements. 
 Project Data such as Sheets, sections, Animated videos, MS Projects report, excel sheet, Navisworks file (.nwd) and Revit 
-file (.rvt). 
+file (.rvt).
+I attached all the file in Github but the quality of Simulation video are not of high qaulity so for improved quality video click the link Below;
 Link: https://drive.google.com/drive/folders/101oegxpe5rPhpyUmSA484SJd4GyBpR_9?usp=sharing
